@@ -1,0 +1,13 @@
+STEERABLE NEEDLE PATH PLANNING
+
+DESCRIPTION:
+This subproject aims at developing a flexible needle pre- and intra-operative trajectory planner
+
+OBJECTIVE:
+Use the OMPL library to implement and test sampling-based path planning methods to flexbile needle trajetory planning
+
+METHOD:
+* Construct RRT for 2D flexible needle steering for pre-operative planning
+* Construct RRT for 3D flexible needle steering for pre-operative planning
+* Adapt and test other methods such as A* and etc
+* Use needle tip position  feedback to intra-operative planning
