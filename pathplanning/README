@@ -1,0 +1,9 @@
+PLANNER
+=======
+
+How to build this projetc
+* Install OMPL, Eigen, OpenCV and cmake
+* In terminal use these commands
+    $ mkdir build && cd build
+    $ cmake ..
+    $ make
