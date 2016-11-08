@@ -11,6 +11,12 @@
 		Estabelecer conexão sentido Cliente (computador) -> Servidor (equipamento de ultrassom) para enviar dados sobre parâmetros desejados;
 		Processamento em tempo real de aquisição das imagens.
 
+  Copyright (c) Insight Software Consortium. All rights reserved.
+
+  This software is distributed WITHOUT ANY WARRANTY; without even
+  the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+  PURPOSE.  See the above copyright notices for more information.
+
 =======================================================================================================================================*/
 
 #include "opencv2/core/core.hpp"
