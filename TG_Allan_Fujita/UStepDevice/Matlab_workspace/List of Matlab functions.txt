@@ -1,0 +1,60 @@
+--- OBJETOS ----
+
+Driver do Aurora:
+
+	AuroraDriver.m
+	PortHandle.m
+
+Dispositivo de Passos Discretos
+
+	UStepDeviceHandler.m
+	PoseMeasurement.m
+	DCCommand.m
+
+
+--- FUNÇÕES ---
+
+Demo do Aurora:
+
+	aurora_demo.fig
+	aurora_demo.m
+	test_aurora_driver.m
+
+Processamento dos resultados experimentais:
+
+	analyzeAllDutyCycleExperiment.m
+	analyzeAllOpenLoopExperiment.m
+	analyzeOpenLoopExperimentResults.m
+	processExperimentResults.m
+
+Funções gerais:
+
+	measureNeedleCorrectionAngle.m
+	measureNeedleCurvature.m
+	radiusOfCurvature.m
+	quaternionTest.m
+	quatmultiplysym.m
+	differenceAngle.m
+
+Planejamento:
+
+	simulateDutyCyclePlanarTrajectory.m
+	Simulation_DC_Insertion.m
+
+
+Comandos básicos do dispositivo:
+
+	testDutyCycleMotion.m
+	testGripperFunctions.m
+	testMotor1Motion.m
+	testNeedleSpin.m
+
+Experimentos:
+
+	calibrateEMSensorAngle.m
+	experimentDutyCycle.m
+	experimentOpenLoopTrajectory.m
+	experimentStepRepeatability.m
+
+
+

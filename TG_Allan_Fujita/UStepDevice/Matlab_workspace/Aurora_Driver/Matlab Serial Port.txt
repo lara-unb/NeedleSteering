@@ -1,0 +1,11 @@
+http://www.mathworks.com/help/matlab/matlab_external/getting-started-with-serial-i-o.html
+
+http://www.mathworks.com/help/matlab/ref/serial.fgets.html
+
+http://www.mathworks.com/help/matlab/ref/serial.fgetl.html?searchHighlight=fgetl
+
+http://www.mathworks.com/help/instrument/serial-port-instrument-communication.html
+
+http://www.mathworks.com/help/matlab/matlab_oop/initialize-object-arrays.html
+
+http://www.mathworks.com/help/matlab/matlab_oop/comparing-handle-and-value-classes.html
