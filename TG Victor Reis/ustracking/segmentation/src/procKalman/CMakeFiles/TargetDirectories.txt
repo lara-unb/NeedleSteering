@@ -1,0 +1,3 @@
+/home/vitor/codes/proc/CMakeFiles/rebuild_cache.dir
+/home/vitor/codes/proc/CMakeFiles/procVideo.dir
+/home/vitor/codes/proc/CMakeFiles/edit_cache.dir

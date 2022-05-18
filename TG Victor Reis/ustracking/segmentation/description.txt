@@ -1,0 +1,12 @@
+NEEDLE SEGMENTATION
+
+DESCRIPTION:
+Algorithms for needle tip segmentation in 2D ultrasound images during out-of-plane insertion
+
+OBJECTIVE:
+Provide x and y position from segmented needle tip
+
+METHOD:
+* Pre-processing: Median filter (7px kernel) with gamma correction and gradient
+* Post-processing: Watershed transform with markers 
+(Distance transform -> Otsu limiarization -> region conectivity -> closing and dilation (ellipse) -> subtraction from original)

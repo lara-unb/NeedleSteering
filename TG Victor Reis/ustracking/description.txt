@@ -1,0 +1,13 @@
+NEEDLE TRACKING SYSTEM
+
+DESCRIPTION:
+This subproject aims at developing a needle tracking system to provide the current needle position and orientation during the insertion procedure.
+
+OBJECTIVE:
+Provide closed-loop feedback from ultrasound images to an automtic needle steering system
+
+METHOD:
+* Obtain online ultrasound imagens from Ethernet connection to an Ultrasonix SonixTouch equipment
+* Obtain the current transducer 3D pose from an optic tracking system (Polaris NDI)
+* Detect the needle tip in "out-of-plane" ultrasound images
+* Estimate the needle 3D pose from the images and the current transducer pose

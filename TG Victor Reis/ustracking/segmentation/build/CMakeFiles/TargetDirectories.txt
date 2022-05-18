@@ -1,0 +1,3 @@
+/home/keyla/Needle_Segmentation/Needle_Segmentation/build/CMakeFiles/Cliente.dir
+/home/keyla/Needle_Segmentation/Needle_Segmentation/build/CMakeFiles/ProcImagem.dir
+/home/keyla/Needle_Segmentation/Needle_Segmentation/build/CMakeFiles/ProcVideo.dir
